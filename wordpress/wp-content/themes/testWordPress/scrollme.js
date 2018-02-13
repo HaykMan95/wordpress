@@ -4,10 +4,7 @@
         // hide .navbar first
         changeMenu();
 
-        var service = $('#service').position().top - 100;
-        var mission = $('#mission').position().top - 100;        
-        var help = $('#help').position().top - 200;
-        var contact = $('#contact').position().top - 300;
+        
 
         
         // fade in .navbar
@@ -26,6 +23,11 @@
         });
 
         function changeMenu() {
+            var service = $('#service').position().top - 100;
+            var mission = $('#mission').position().top - 100;
+            var help = $('#help').position().top - 200;
+            var contact = $('#contact').position().top - 300;
+            
             if ($(this).scrollTop() > 550) {
                 $('nav').addClass('black');
             } else {

@@ -129,6 +129,7 @@ Version: 1.0
   text-align: center;
   line-height: 150%;
   font-size: 36px;
+  font-weight: normal;
 }
 
 .posts-view {
@@ -226,6 +227,7 @@ Version: 1.0
 
 .service label.description {
   font-family: Helvetica;
+  font-weight: normal;
 }
 
 .service .description {
@@ -238,8 +240,7 @@ Version: 1.0
 .service .title {
   font-size: 37px;
   color: #000000;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: normal;
   text-align: center;
   font-family: BebasNeueBook;
 }
@@ -252,7 +253,6 @@ Version: 1.0
   color: #202020;
   font-family: ChaletLondonNineteenSixty;
   font-size: 57px;
-  font-weight: bold;
   margin-bottom: -11px;
 }
 
@@ -297,7 +297,7 @@ Version: 1.0
 
 nav {
   display: none;
-  z-index: 10000;
+  z-index: 100000;
   position: fixed;
   top: 0;
   left: 0;
@@ -367,6 +367,12 @@ nav.black ul li a.active {
 
 .menu-nav {
   margin-top: -15px;
+}
+
+.bbb {
+  height: 100px;
+  border-style: dotted;
+  background-color: red;
 }
 
 /*
