@@ -1,0 +1,19 @@
+Wednesday, 14-Feb-2018 14:59:24 - restore started
+Wednesday, 14-Feb-2018 14:59:24 - wp version     : 4.9.4
+Wednesday, 14-Feb-2018 14:59:24 - php version    : 7.1.4
+Wednesday, 14-Feb-2018 14:59:24 - mysql version  : 5.5.5
+Wednesday, 14-Feb-2018 14:59:24 - memory limit   : 1024M
+Wednesday, 14-Feb-2018 14:59:24 - execution time : 600
+Wednesday, 14-Feb-2018 14:59:24 - mysql timeout  : 
+Wednesday, 14-Feb-2018 14:59:24 - socket timeout : 600
+Wednesday, 14-Feb-2018 14:59:24 - file exists in the backup folder, filesize - 19.04 MB
+Wednesday, 14-Feb-2018 14:59:24 - extracting database using ziparchive
+Wednesday, 14-Feb-2018 14:59:25 - database import started
+Wednesday, 14-Feb-2018 14:59:25 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "http://localhost:10080/tutorials/wordpress", "yes")"
+Wednesday, 14-Feb-2018 14:59:26 - mysql query failed. error : 1065 Query was empty - query : ""
+Wednesday, 14-Feb-2018 14:59:26 - database import finished
+Wednesday, 14-Feb-2018 14:59:26 - URLs are similar, skipping search and replace
+Wednesday, 14-Feb-2018 14:59:26 - extracting archive using ziparchive
+Wednesday, 14-Feb-2018 14:59:34 - copying files..
+Wednesday, 14-Feb-2018 14:59:40 - deleting temp directory..
+Wednesday, 14-Feb-2018 14:59:41 - restore finished

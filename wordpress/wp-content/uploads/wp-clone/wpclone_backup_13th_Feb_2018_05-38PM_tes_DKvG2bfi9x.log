@@ -1,0 +1,18 @@
+Tuesday, 13-Feb-2018 17:38:24 - backup started
+Tuesday, 13-Feb-2018 17:38:24 - wp version     : 4.9.4
+Tuesday, 13-Feb-2018 17:38:24 - php version    : 7.1.4
+Tuesday, 13-Feb-2018 17:38:24 - mysql version  : 5.5.5
+Tuesday, 13-Feb-2018 17:38:24 - memory limit   : 1024M
+Tuesday, 13-Feb-2018 17:38:24 - execution time : 600
+Tuesday, 13-Feb-2018 17:38:24 - mysql timeout  : 
+Tuesday, 13-Feb-2018 17:38:24 - socket timeout : 600
+Tuesday, 13-Feb-2018 17:38:24 - files larger than 25 MB will be excluded from the backup
+Tuesday, 13-Feb-2018 17:38:24 - generating file list
+Tuesday, 13-Feb-2018 17:38:24 - number of files to include in the archive is 859, and their uncompressed size is 26.73 MB
+Tuesday, 13-Feb-2018 17:38:24 - finished generating file list
+Tuesday, 13-Feb-2018 17:38:24 - database backup started
+Tuesday, 13-Feb-2018 17:38:24 - backing up tables with "wp_" prefix
+Tuesday, 13-Feb-2018 17:38:24 - number of tables to backup - 13
+Tuesday, 13-Feb-2018 17:38:24 - database backup finished
+Tuesday, 13-Feb-2018 17:38:24 - archiving files using ziparchive
+Tuesday, 13-Feb-2018 17:38:26 - backup finished
